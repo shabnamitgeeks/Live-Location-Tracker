@@ -1,6 +1,6 @@
 # Live-Location-Tracker
 
-Go HERE :- https://getsolved.uk/Location-Tracker/
+Go HERE :- http://www.locationtracker.tk
 
 <hr>
 While the first method is free and can give you an approximate location, it won’t tell you the exact location of the phone nor record the phone’s movement history. On the other hand, a spy app uses an inbuilt GPS to track the phone and give you its exact location. Therefore, a spy app is more reliable, effective, and convenient than a phone lookup service. <br>
